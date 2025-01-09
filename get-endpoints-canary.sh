@@ -1,0 +1,1 @@
+curl -X GET http://localhost:8000/endpoints/canary > endpoints-canary.json
